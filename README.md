@@ -2,7 +2,7 @@
 
 ## Project 1: Your first neural network - Bike sharing
 
-In this project, you will make a neural network to solve a prediction problem in a real dataset! By building a neural network from scratch, you will understand much better how gradient descent, backpropagation, and other important concepts of neural networks work. You also get a chance to see your network solving a real problem!
+In this project, i'll make a neural network to solve a prediction problem in a real dataset! By building a neural network from scratch, you will understand much better how gradient descent, backpropagation, and other important concepts of neural networks work. You also get a chance to see your network solving a real problem!
 
 The data comes from the [UCI Machine Learning Database link](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
