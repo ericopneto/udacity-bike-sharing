@@ -1,4 +1,4 @@
-# Udacity Deep Laerning Foundations Nanodegree
+# Udacity Deep Learning Foundations Nanodegree
 
 ## Project 1: Your first neural network - Bike sharing
 
